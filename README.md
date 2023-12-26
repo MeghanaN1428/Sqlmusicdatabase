@@ -8,4 +8,5 @@ This project has some basic to intermediate level querries. You can examine the 
 DATABASE AND TOOLS
 
 SQL SERVER MANAGEMENT STUDIO 19
+
 SQL2022-SSEI-Expr.exe
